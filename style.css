@@ -1,0 +1,48 @@
+
+.imagen_fondo{
+    background-image: url(./Imagen_1.jpg);
+    background-repeat: no-repeat; 
+    background-attachment: fixed;
+    background-size: cover;
+    height: 40em;
+}
+
+.section_1{
+    color:white;
+    text-align: center;
+    padding-top: 15em;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.section_2{
+    color:azure;
+    text-align: center;
+    padding-top: 3em;
+    font-size: 40px;
+    font-family:sans-serif;
+}
+
+.section_3{
+    color:azure;
+    text-align: center;
+    padding-top: 7em;
+    font-size: 40px;
+    font-family:sans-serif;
+}
+
+.imagen_fondo_2{
+    background-image: url(./Imagen_2.jpg);
+    background-repeat: no-repeat; 
+    background-attachment: fixed;
+    background-size: cover;
+    height: 20em;
+}
+
+.imagen_fondo_3{
+    background-image: url(./Imagen_3.jpg);
+    background-repeat: no-repeat; 
+    background-attachment: fixed;
+    background-size: cover;
+    height: 40em;
+}
+
